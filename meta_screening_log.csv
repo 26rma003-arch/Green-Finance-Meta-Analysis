@@ -1,0 +1,82 @@
+study_id,study_label,status,reason
+489.0,Ceyhun (2026),Included,
+190.0,Cui et al. (2026),Included,
+568.0,"Zeng et al. (2025, IRFA)",Included,
+892.0,"Zeng et al. (2025, RIBAF)",Included,
+605.0,Qi et al. (2025),Included,
+692.0,Li et al. (2025),Included,
+890.0,Zhu et al. (2025),Included,
+502.0,"Hanif et al. (2025, EE)",Included,
+909.0,Jiang et al. (2025),Included,
+599.0,Hanif et al. (2025),Included,
+914.0,Chang et al. (2025),Included,
+1058.0,Pham et al. (2024),Included,
+1328.0,Ali et al. (2024),Included,
+1459.0,"Wang et al. (2024, JIFMIM)",Included,
+1149.0,"Wang et al. (2024, EE)",Included,
+1443.0,Dong et al. (2024),Included,
+904.0,Qiao et al. (2024),Included,
+1088.0,Ziadat et al. (2024),Included,
+1418.0,Ji et al. (2024),Included,
+1424.0,Lu et al. (2024),Included,
+1187.0,Lei et al. (2024),Included,
+941.0,Su and He (2024),Included,
+1473.0,Jia et al. (2024),Included,
+1258.0,Dai et al. (2024),Included,
+1104.0,"Wang et al. (2023, EE)",Included,
+1487.0,Karkowska and Urjasz (2023),Included,
+1152.0,Li et al. (2023),Included,
+1460.0,Khalfaoui et al. (2023),Included,
+1246.0,Bai et al. (2023),Included,
+1251.0,Ghosh et al. (2023),Included,
+1266.0,Lu et al. (2023),Included,
+1495.0,Patel et al. (2023),Included,
+1269.0,Liu et al. (2023),Included,
+1248.0,Gong et al. (2023),Included,
+1303.0,Hoque et al. (2023),Included,
+1163.0,Zhang et al. (2023),Included,
+1466.0,Dai et al. (2023),Included,
+1494.0,"Mensi et al. (2023, EAP)",Included,
+1405.0,Goodell et al. (2023),Included,
+1132.0,Meng et al. (2023),Included,
+1110.0,Lucey and Ren (2023),Included,
+1114.0,Suleman et al. (2023),Included,
+1404.0,Yuan et al. (2023),Included,
+1194.0,Wang L. et al. (2023),Included,
+1075.0,Su et al. (2023),Included,
+1801.0,Tiwari et al. (2022),Included,
+1791.0,Ding et al. (2022),Included,
+1620.0,Chen et al. (2022),Included,
+1855.0,"Mensi et al. (2022, EAP)",Included,
+1777.0,Elsayed et al. (2022),Included,
+1560.0,Yousaf et al. (2022),Included,
+1519.0,Long et al. (2022),Included,
+1631.0,"Mensi et al. (2022, FRL)",Included,
+1807.0,Zhou et al. (2022),Included,
+1715.0,Benlagha et al. (2022),Included,
+1730.0,Chen and Lin (2022),Included,
+1906.0,Chen Y. et al. (2022),Included,
+1863.0,Saeed et al. (2021),Included,
+1590.0,Le et al. (2021),Included,
+1867.0,Pham (2021),Included,
+1819.0,Arif et al. (2021),Included,
+1536.0,Hanif et al. (2021),Included,
+1673.0,Corbet et al. (2020),Included,
+1919.0,Mensi et al. (2017),Included,
+,Naeem et al. (2020),Excluded,Connectedness reported only as ranges
+,Ferrer et al. (2018),Excluded,Connectedness reported only as ranges
+,Sharif et al. (2023),Excluded,Results reported only as heatmaps
+,Wei et al. (2023),Excluded,Wavelet quantile coherency; no total connectedness index
+,Pham and Cepni (2022),Excluded,Directional spillovers only; no total connectedness index
+,Goodell et al. (2022),Excluded,Wavelet networks; no total connectedness index
+,Lyu et al. (2024),Excluded,System without a green asset
+,Liu L. et al. (2025),Excluded,System without a green asset
+,"Wang, Zhao and Shang (2025)",Excluded,Time-varying spillover index reported only in figures; no static TCI
+,Syuhada et al. (2024),Excluded,CoVaR/expectile systemic-risk measures; no total connectedness index
+,Wang J. et al. (2024),Excluded,Quantile connectedness shown only in figures
+,Ren et al. (2025),Excluded,Efficiency analysis; no total connectedness index reported
+,Pham and Do (2022),Excluded,Total connectedness reported only as a range from figures (40–75%)
+,Bonaccolto (2024),Excluded,Comment re-analysing the data of Dai et al. (2023); not an independent estimate
+,Ren et al. (2024),Excluded,Connectedness of informational-inefficiency measures rather than returns or volatility
+,Ghaemi Asl et al. (2024),Excluded,Forecasting (RMSE) comparison; no total connectedness index reported
+2001.0,Mensi et al. (2025),Included,
